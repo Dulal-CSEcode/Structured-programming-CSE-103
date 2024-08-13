@@ -1,4 +1,3 @@
-# Structured-programming-CSE-103
 <h1 align="center">--- Structured-programming-CSE-103 ---</h1>  
 <h3 align="center">-- Fall 2024 --</h3>  
 <br />  
