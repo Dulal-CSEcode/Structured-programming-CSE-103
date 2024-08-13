@@ -3,7 +3,7 @@
 <br />  
 Welcome to the Structured Programming CSE-103 repository. This repository contains course materials, assignments, and resources for the Structured Programming course.  
 <br />  
-![Structured Programming]( structuredprogrammingbanner.PNG )  
+![OS Lab](cse103.png)  
 <br />  
 
 ## Table of Contents
