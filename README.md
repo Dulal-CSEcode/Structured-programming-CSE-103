@@ -1,5 +1,5 @@
 <h1 align="center">--- Structured-programming-CSE-103 ---</h1>  
-<h3 align="center">-- Fall 2024 --</h3>  
+<h3 align="center">-- Spring 2022 --</h3>  
 <br />  
 Welcome to the Structured Programming CSE-103 repository. This repository contains course materials, assignments, and resources for the Structured Programming course.  
 <br />  
