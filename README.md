@@ -23,6 +23,11 @@ Welcome to the Structured Programming CSE-103 repository. This repository contai
 
 In this course, we will cover the fundamental concepts of structured programming, including logic, set theory, functions, mathematical induction, graph theory, and more. The repository provides a comprehensive guide to understanding and applying these principles through problem-solving.
 
+Check out the playlist now and start your learning journey: [ Playlis Link ](https://youtube.com/playlist?list=PLEc-WcPXUsjsm4_JTG3Pvc7wgva-cx3yQ&si=gipLEXV_A_A8tfdd)
+**Happy Learning!**
+
+In this course, we will cover the fundamental concepts of structured programming, including logic, set theory, functions, mathematical induction, graph theory, and more. The repository provides a comprehensive guide to understanding and applying these principles through problem-solving.
+
 ## Course Outline
 
 ### 1. Socialization and Introduction to the Course
