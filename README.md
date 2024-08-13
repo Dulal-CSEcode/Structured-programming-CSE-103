@@ -116,3 +116,52 @@ To set up the environment:
    ```bash
    git clone https://github.com/Dulal-CSEcode/Structured-programming-CSE-103.git
    cd Structured-programming-CSE-103
+    ```
+
+2. Install any required packages or dependencies. For example, on a Debian-based system:
+
+    ```bash
+    sudo apt-get update
+    sudo apt-get install build-essential
+    ```
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- You have a basic understanding of programming concepts.
+- You have access to a C/C++ compiler.
+- You have a basic understanding of C/C++ programming.
+- You have Git installed on your computer.
+
+## Assignments and Practice Problems
+
+This repository includes a collection of assignments and practice problems to help reinforce the concepts taught in the course. Each assignment is located in its respective directory with detailed instructions and resources.
+
+## Usage
+Navigate to the specific assignment or practice problem directory and follow the instructions provided in the README.md file located in each folder.
+
+## Contributing
+Contributions are welcome! To contribute, please follow these steps:
+
+1. Fork the repository.
+
+2. Create a new branch (e.g., feature-branch).
+
+3. Make your changes and commit them (git commit -m 'Add new feature').
+
+4. Push to the branch (git push origin feature-branch).
+
+5. Create a pull request.
+
+Please ensure your code follows the repository's coding standards and includes appropriate tests.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+
+<br/>
+<h2 align="center"> Thanks for visiting the Structured-programming-CSE-103 repository.</h2>
+<h3 align="center">© All rights reserved by Dulal-CSEcode @2024 © Department of Computer Science and Engineering, GUB </h3>
+
+
+   
