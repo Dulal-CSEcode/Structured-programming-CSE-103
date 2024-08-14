@@ -23,7 +23,7 @@ Welcome to the Structured Programming CSE-103 repository. This repository contai
 
 In this course, we will cover the fundamental concepts of structured programming, including logic, set theory, functions, mathematical induction, graph theory, and more. The repository provides a comprehensive guide to understanding and applying these principles through problem-solving.
 
-Check out the playlist now and start your learning journey: [ Playlis Link ](https://youtube.com/playlist?list=PLEc-WcPXUsjsm4_JTG3Pvc7wgva-cx3yQ&si=gipLEXV_A_A8tfdd)
+Check out the playlist now and start your learning journey: [ Youtube Playlis Link : ](https://youtube.com/playlist?list=PLEc-WcPXUsjsm4_JTG3Pvc7wgva-cx3yQ&si=gipLEXV_A_A8tfdd)
 **Happy Learning!**
 
 In this course, we will cover the fundamental concepts of structured programming, including logic, set theory, functions, mathematical induction, graph theory, and more. The repository provides a comprehensive guide to understanding and applying these principles through problem-solving.
@@ -32,81 +32,64 @@ In this course, we will cover the fundamental concepts of structured programming
 
 ### 1. Socialization and Introduction to the Course
 - Overview of course objectives and structure.
+- Importance of C programming.
+- Introduction to IDE and Compiler.
 
-### 2-3. Logic
-- **Propositional Logic** (PPT-1)
-  - Basic Problems: Page-12 (1-20), Page-22 (1-20)
-  - Composite Statements: PPT-1 Page-6
-  - Logical Connectives: PPT-1 Page-(4-9)
-  - Application of Propositional Logic: PPT-1 1.2
-- **CO1**
+### 2. Writing a Simple C Program
+- **Text:** 2.1, 2.2, 2.3, 2.4, 2.5
+  - Suggested Problems: 1-5
+  - General form of a simple program.
+  - Comments, Variables & Assignments.
+  - Input/Output operations.
 
-### 4-5. Advanced Logic
-- **Predicate Logic** (PPT-2)
-  - Problems: Page-78 (1-9)
-  - Limitation of Propositional Logic
-  - Quantifiers: PPT-2 1.4
-  - Rule of Inference: PPT-2 1.6
-- **CO1**
+### 3-4. Arithmetic and Assignment Operators
+- **Text:** 4.1, 4.2, 4.3, 4.4
+  - Suggested Problems: 1-6
+  - Arithmetic operators, Assignment operators.
+  - Increment/Decrement operators.
+  - Expression evaluation.
 
-### 6-8. Set Theory
-- **Set Operations** (PPT-3)
-  - Problems: Page-125 (1-44), Page-136 (1-29)
-  - Basic Discrete Structures: PPT-3 2.1
-  - Cardinality, Infinite Set, Power Set, Cartesian Product
-  - Set Operations and Computer Representation: PPT-3 Page-134
-- **CO1**
+### 5-6. Logical Expressions and Control Statements
+- **Text:** 5.1, 5.2, 5.3
+  - Suggested Problems: 1-10
+  - Logical Expressions, The if statement.
+  - The switch statement.
 
-### 9-11. Functions
-- **Functions and Their Representations** (PPT-4)
-  - Problems: Page-152 (1-6)
-  - Injective, Surjective, Bijection Functions
-  - Inverse and Composition of Functions: PPT-4 Page-145
-- **CO1**
+### 7-10. Loop Control Structures
+- **Text:** 6.1, 6.2, 6.3, 6.4
+  - Suggested Problems: 1-14
+  - The while, do-while, and for statements.
+  - Exiting from a loop.
 
-### 12. Mathematical Induction
-- **Mathematical Proof Techniques** (PPT-5)
-  - Problems: Page-329 (1-2), Page-451 (1-24)
-- **CO2**
+### 11-12. Arrays
+- **Text:** 8.1, 8.2
+  - Suggested Problems: 1-8
+  - One-dimensional and Multidimensional arrays.
 
-### 13. Discrete Probability
-- **Probability Theory** (Chapter-7)
-  - Discrete Probability, Uniform Probability Measure
-  - Probability of Complementary and Union Events: PPT-6 Page-455
-- **CO2**
+### 13-15. Functions
+- **Text:** 9.1 to 9.6, 22.2
+  - Suggested Problems: 1-11
+  - Defining and calling functions, Function declarations.
+  - Arguments, Return statements, Program termination.
+  - Recursion, File operations.
 
-### 14-16. Graph Theory
-- **Introduction to Graphs** (PPT-6)
-  - Problems: Page-649 (1-10), Page-665 (1-58), Page-675 (1-18)
-  - Directed, Undirected, Complete, Bipartite Graphs
-  - Subgraph and Graph Representation: PPT-6 Page-663
-- **CO1, CO3**
+### 16-17. Strings
+- **Text:** 13.1 to 13.6
+  - Suggested Problems: 1-10
+  - String literals, String variables, Reading and writing strings.
+  - Accessing characters in a string, Using the C string library, Arrays of strings.
 
-### 17-18. Trees
-- **Tree Structures** (PPT-7)
-  - Problems: Page-755 (1-33)
-  - Rooted, M-ary, Binary, Complete Binary Trees
-- **CO1, CO3**
+### 18-19. Structures
+- **Text:** 16.1 to 16.3
+  - Suggested Problems: 1-6
+  - Structure variables, Structure types, Nested arrays & structures.
 
-### 19-20. Counting Techniques
-- **Combinatorics and Counting Rules** (PPT-8)
-  - Problems: Page-413 (1-38)
-  - Inclusion-Exclusion Principle, Pigeonhole Principle, Permutations, Combinations
-  - Caesar Cipher: PPT-8 6.1
-- **CO2**
-
-### 21-22. Basic Number Theory
-- **Introduction to Number Theory** (PPT-9)
-  - Problems: Page-284 (1-8), Page-284 (1-10)
-  - Divisors, Prime Numbers, Fundamental Theorem of Arithmetic
-  - GCD, Relatively Prime, LCM, Mod Function
-- **CO1, CO3**
-
-### 23-24. Relations
-- **Binary Relations** (PPT-10)
-  - Problems: Page-579 (1-16)
-  - Reflexive, Symmetric, Transitive Relations, Closure, Composite and Equivalence Relations
-- **CO1**
+### 20-22. Pointers
+- **Text:** 11.1 to 11.5, 12.1 to 12.4
+  - Suggested Problems: 1-7 (11.1), 1-9 (12.1)
+  - Pointer variables, The address and indirection operators, Pointer assignment.
+  - Pointers as arguments, Pointer return values, Dynamic memory allocation.
+  - Pointer arithmetic, Using pointers for array processing, Array names as pointers, Pointers & multidimensional arrays.
 
 ## Installation
 
